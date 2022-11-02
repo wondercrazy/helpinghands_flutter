@@ -1,0 +1,19 @@
+ [
+      {"name": "HYUNDAI", "category": "Hatchback", "model" : "Grand i10"},
+      {"name": "HYUNDAI", "category": "Hatchback", "model" : "i20"},
+      {"name": "HYUNDAI", "category": "Sedan", "model" : "Aura"},
+      {"name": "HYUNDAI", "category": "SUV", "model" : "Creta"},
+      {"name": "HYUNDAI", "category": "SUV", "model" : "Venue"},
+
+      {"name": "TATA", "category": "Sedan", "model" : "Tigor"},
+      {"name": "TATA", "category": "SUV", "model" : "Punch"},
+      {"name": "TATA", "category": "SUV", "model" : "Nexon"},
+      {"name": "TATA", "category": "SUV", "model" : "HARRIER"},
+
+      {"name": "MARUTI", "category": "Hatchback", "model" : "Swift"},
+      {"name": "MARUTI", "category": "Hatchback", "model" : "Wagon R"},
+      {"name": "MARUTI", "category": "Hatchback", "model" : "Baleno"},
+      {"name": "MARUTI", "category": "Hatchback", "model" : "Alto 800"},
+      {"name": "MARUTI", "category": "Sedan", "model" : "Dzire"},
+      {"name": "MARUTI", "category": "MUV", "model" : "Ertiga"}
+]
